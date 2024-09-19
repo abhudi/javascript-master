@@ -1,0 +1,11 @@
+{
+  "name": "Abhishek",
+  "age": 22,
+  "email": "abhishek@gmail.com",
+  "isPrivate": true,
+  "hobbies": ["reading", "painting", "cooking"],
+  "address": {
+    "city": "New York",
+    "idk": true
+  }
+}
